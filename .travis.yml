@@ -4,7 +4,7 @@ python:
   - "3.3"
 
 install:
-  - "pip -U setuptools"
+  - "pip install -U setuptools"
   - "python bootstrap.py"
   - "bin/buildout"
 
