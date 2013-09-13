@@ -1,6 +1,6 @@
 *~
 cover
-
+_build
 *.py[cod]
 
 # C extensions
