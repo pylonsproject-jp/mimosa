@@ -16,6 +16,8 @@ requires = [
 ]
 
 tests_require = [
+    "testfixtures",
+    "webtest",
 ]
 
 here = os.path.dirname(__file__)
